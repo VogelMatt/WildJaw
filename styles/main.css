@@ -1,0 +1,80 @@
+.headingMain {
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: darkolivegreen;
+}
+
+.textMain {
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: darkolivegreen;
+}
+
+.contactme {
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: darkolivegreen;
+}
+
+div.navbar-nav {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  justify-content: center;
+  flex-direction: row;
+  color: darkolivegreen;
+}
+
+.navbar-wrapper {
+  display: flex;
+  justify-content: center;
+  color: darkolivegreen;
+}
+
+.nav-item {
+  margin: 1rem;
+  color: darkolivegreen;
+
+}
+
+.contactMe {
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.resume {
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.resumeInfo {
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.rippys {
+  display: flex;
+  justify-content: center;
+}
+
+.kidrock {
+  display: flex;
+  justify-content: center;
+}
+
+.honky {
+  display: flex;
+  justify-content: center;
+}
+
+.aldeans {
+  display: flex;
+  justify-content: center;
+}
+
+.tootsies {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  content: url(http://example.com/image.png);
+}
